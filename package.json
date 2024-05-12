@@ -1,0 +1,12 @@
+{
+  "name": "mothers-day-mom",
+  "version": "1.0.0",
+  "description": "Because of coronavirus, I didn't want to mail my mom or grandma anything. Solution? Custom e-cards. Since we're all locked inside, I decided to make it.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
